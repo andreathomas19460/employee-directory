@@ -1,0 +1,23 @@
+header {
+    height: 420px;
+    background-image:  url('https://i.imgur.com/ZPDZ5VY.jpg'); background-repeat: no-repeat;
+    background-color: pink;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: right;
+  }
+  
+  .header-message {
+    padding-top: 70px;
+    color: black;
+    font-weight: bold;
+  }
+
+  p {
+    font-size: 125px;
+  }
+
+  h1 {
+    color: gray;
+  }
